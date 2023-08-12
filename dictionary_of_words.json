@@ -1,0 +1,117 @@
+{
+    "categories":
+    [
+        {
+            "category": "Filme",
+            "words":
+            [
+                {
+                    "value": "INCEPTION",
+                    "hint": "Leonardo DiCaprio -- Despre visele oamenilor."
+                },
+                {
+                    "value": "RAMBO",
+                    "hint": "Sylvester Stallone -- Actiune, soldat american de a luptat in Vietnam."
+                },
+                {
+                    "value": "ROCKY",
+                    "hint": "Sylvester Stallone -- Actiune/Drama, despre un boxer celebru."
+                },
+                {
+                    "value": "FILANTROPICA",
+                    "hint": "Replica celebra: 'Mana intinsa care nu spune o poveste, nu primeste pomana!'"
+                }
+            ]
+        },
+        {
+            "category": "Mancare",
+            "words":
+            [
+                {
+                    "value": "MAMALIGA",
+                    "hint": "Se foloseste faina. Este foarte buna in combinatie cu puiul cu smantana sau sarmale."
+                },
+                {
+                    "value": "TOCHITURA",
+                    "hint": "Specific moldovenesc. Cu ou, mamaliga, carne etc."
+                },
+                {
+                    "value": "CIORBA",
+                    "hint": "Poate fi: de legume, de pui, de burta etc"
+                },
+                {
+                    "value": "DROB",
+                    "hint": "Se face la Paste si contine maruntaie de miel."
+                }
+            ]
+        },
+        {
+            "category": "Domenii",
+            "words":
+            [
+                {
+                    "value": "MEDIC",
+                    "hint": "Persoana care se ocupa cu vindecarea oamenilor."
+                },
+                {
+                    "value": "CONSTRUCTOR",
+                    "hint": "Care construieste cladiri, drumuri, poduri etc."
+                },
+                {
+                    "value": "PROGRAMATOR",
+                    "hint": "Dezvoltator de software."
+                },
+                {
+                    "value": "PROFESOR",
+                    "hint": "Invata pe altii."
+                }
+            ]
+        },
+        {
+            "category": "IT",
+            "words":
+            [
+                {
+                    "value": "QA",
+                    "hint": "Programator care se ocupa cu testarea produselor software."
+                },
+                {
+                    "value": "PYTHON",
+                    "hint": "Sarpe."
+                }
+            ]
+        },
+        {
+            "category": "Orase",
+            "words":
+            [
+                {
+                    "value": "BUCURESTI",
+                    "hint": "Capitala Romaniei"
+                },
+                {
+                    "value": "TARGUJIU",
+                    "hint": "Oras in care se gasesc operele lui Constantin Brancus."
+                },
+                {
+                    "value": "ALBAIULIA",
+                    "hint": "Unde s-a infaptuit unirea."
+                }
+            ]
+        },
+        {
+            "category": "Oameni",
+            "words":
+            [
+                {
+                    "value": "IOHANNIS",
+                    "hint": "Presedintele Romaniei"
+                },
+                {
+                    "value": "DRAGNEA",
+                    "hint": "Puscarias care a furat insula Belina."
+                }
+            ]
+        }
+    ]
+}
